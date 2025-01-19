@@ -19,3 +19,4 @@ return "1";
 function namaane(){
 return "majelo";
 }
+int a=9;
