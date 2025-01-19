@@ -1,3 +1,8 @@
 
  const name="mihir";
- const dob=19;
+ const dob1=19;
+
+function cal(){
+return dob1>=18;
+}
+
