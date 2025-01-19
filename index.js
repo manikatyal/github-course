@@ -12,3 +12,4 @@ function nwei(){
 function newFeatuire(){
  return "daal diya";
 }
+
