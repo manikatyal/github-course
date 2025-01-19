@@ -20,3 +20,4 @@ function namaane(){
 return "majelo";
 }
 int a=9;
+int a=8;
