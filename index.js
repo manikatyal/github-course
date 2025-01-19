@@ -5,4 +5,6 @@
 function cal(){
 return dob1>=18;
 }
-
+function nwei(){
+ return "9";
+}
