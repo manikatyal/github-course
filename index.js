@@ -13,3 +13,6 @@ function newFeatuire(){
  return "daal diya";
 }
 
+function horllelel(){
+return "1";
+}
