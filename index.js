@@ -16,3 +16,6 @@ function newFeatuire(){
 function horllelel(){
 return "1";
 }
+function namaane(){
+return "majelo";
+}
